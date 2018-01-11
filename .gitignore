@@ -1,4 +1,4 @@
-.git
-.idea
-.leetcode-playground.iml
-out
+.git/
+.idea/
+.leetcode-playground.iml/
+out/
